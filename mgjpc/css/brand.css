@@ -1,0 +1,217 @@
+.logo_bar_b{
+	height:108px;
+	border-bottom: 2px solid #ff4466;
+	margin-bottom: 20px;
+}
+.nav_car_b{
+	width:1200px;
+	height:500px;
+	margin:0 auto;
+}
+.nav_car_b_l{
+	float: left;
+	width:938px;
+	height:498px;
+	border:1px solid #ddd;
+	padding-left:20px;
+}
+.nav_tl_b li{
+	width:127px;
+	height:53px;
+	margin-bottom: 27px;
+}
+.nav_tl_b{
+	width:158px;
+	float: left;
+	padding-top: 22px;
+}
+.nav_tl_b .tl_n_lib{
+	margin-bottom: 0;
+}
+.tl_n_t_line{
+	float: left;
+	height:20px;
+	padding-top: 4px;
+	border-bottom:1px solid #000;
+	margin-bottom: 16px;
+}
+.tl_n_t_line span{
+	float: left;
+}
+.nav_tl_b a{
+	float: left;
+}
+.tl_n_title{
+	cursor: pointer;
+}
+.tl_n_text{
+	font-size: 16px;
+	color:#000;
+}
+.tl_n_word{
+	font-size: 10px;
+	color:#000;
+	margin-top: 3px;
+	margin-left: 2px;
+}
+.tl_n_box{
+	float: left;
+	width:127px;
+}
+.tl_n{
+	font-size: 12px;
+	color:#000;
+}
+.tl_n_l{
+	margin-left: 18px;
+}
+.carousel_b{
+	width:780px;
+	float: left;
+}
+.carousel_b a{
+	float: left;
+}
+.carousel_b ul{
+	float: left;
+	width:779px;
+	height:38px;
+	border-left: 1px solid #ddd;
+}
+.nav_car_b_r{
+	float: right;
+	width:230px;
+}
+.nav_car_b_r a{
+	float:left;
+}
+.carousel_b li{
+	width:260px;
+	height:38px;
+	float: left;
+}
+.car_b_ul a{
+	width:260px;
+	font-size: 12px;
+	color:#000;
+	text-align: center;
+	line-height: 38px;
+}
+.car_b_li{
+	margin-left: -1px;
+}
+.car_b_li a{
+	float: left;
+	width:259px;
+}
+.car_b_li span{
+	float: right;
+	width:1px;
+	height:24px;
+	background-color: #ddd;
+	margin-top: 8px;
+}
+/*.carousel_b .car_b_li_center{
+	height:46px;
+	margin-top: -8px;
+}*/
+.car_b_li_center a{
+	background-color: #000;
+	color:#fff;
+}
+/*.car_b_li_center span{
+	float: left;
+	margin-left: 122px;
+	width:16px;
+	height:8px;
+	background:blue url(img/mogujie.png) no-repeat;
+	background-position:-209px -51px;
+}*/
+.adv_brand{
+	width:1172px;
+	height:103px;
+	padding-top:48px;
+	padding-left: 28px;
+	margin:0 auto;
+}
+.adv_brand li{
+	width:300px;
+	height:53px;
+	float: left;
+	background: url(../img/brand/2_22line.jpg) no-repeat 299px 16px;
+}
+.adv_brand a{
+	float: left;
+	width:187px;
+	height:53px;
+	font-size: 12px;
+	color:#666;
+	line-height: 53px;
+	padding-left: 113px;
+}
+.adv_brand .adv_brand_li{
+	width:272px;
+}
+.adv_brand_li a{
+	width:159px;
+	background: url(../img/brand/customer.jpg) no-repeat 54px 0;
+}
+.ab_synchronous{
+	background: url(../img/brand/synchronous.jpg) no-repeat 54px 0;
+}
+.quality_goods{
+	background: url(../img/brand/quality_goods.jpg) no-repeat 54px 0;
+}
+.ab_fast{
+	background: url(../img/brand/fast.jpg) no-repeat 54px 0;
+}
+/*以下为内容部分*/
+.text_nav{
+	width:1200px;
+	height:59px;
+	margin:0 auto;
+	background: url(../img/brand/tip_nav_line.jpg) repeat-x 0 12px;
+}
+.text_nav p{
+	width:243px;
+	height:28px;
+	margin-left: 477px;
+	font-size: 28px;
+	color:#000;
+	font-family: "黑体";
+	text-align: center;
+	line-height: 28px;
+	background-color: #fff;
+}
+.brand_home{
+	width:1200px;
+	height:322px;
+	margin:0 auto;
+	clear: both;
+	white-space:nowrap;
+	
+}
+.brand_home a{
+	width:128px;
+	height:128px;
+	float: left;
+	margin:0 6px 6px 0;	
+	/*background-color: #fff;*/
+	white-space:nowrap;
+	
+}
+.brand_home .brand_home_m{
+	margin-right: 0;
+}
+.a222{
+	width:1200px;
+	height:100px;
+}
+
+
+
+
+
+
+
+

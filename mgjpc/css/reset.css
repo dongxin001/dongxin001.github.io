@@ -1,0 +1,41 @@
+body{
+	font-size: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+dl,dd,p,h3,h2{
+	margin: 0;
+}
+ul{
+	margin: 0;
+	padding:0;
+	list-style:none;
+}
+input{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+img{
+	border: none;
+	vertical-align: top;
+}
+table,td{
+	border: 1px solid #dddddd;
+	padding:0;
+}
+table{
+	border-collapse:collapse;
+}
+
+
+
+
+
+
+
+
+
+

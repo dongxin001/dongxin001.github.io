@@ -1,0 +1,17 @@
+body{
+	margin:0;
+}
+h1,h2,dl,dd,p{
+	margin:0;
+}
+a{
+	text-decoration:none;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+img{
+	border: none;
+}

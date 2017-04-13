@@ -1,0 +1,364 @@
+
+/*以下为首屏大图轮播块*/
+.nav_car{
+	width:1200px;
+	height:550px;
+	margin:0 auto;
+}
+.text_nav_left{
+	float:left;
+	width:201px;
+	height:548px;
+	border:1px solid #ff0000;
+	border-top: none;
+	padding:1px 12px 0 10px;
+}
+.text_nav_left ul{
+	width:201px;
+	height:549px;
+}
+.text_nav_left_li{
+	width:201px;
+	height:42px;
+	background:url(../img/nav_left_li_bg.png) no-repeat 0 41px ;
+	float: left;
+}
+.text_nav_left_li_bg{
+	background: none;
+}
+.text_nav_left_li dl{
+	width:201px;
+	height:42px;
+}
+.text_nav_left_li dt{
+	float: left;
+}
+.text_nav_left_li dd{
+	float: left;
+}
+.text_nav_left_li a{
+	font-size: 12px;
+	color:#666666;
+	line-height: 42px;
+}
+.hot_num1{
+	height:42px;
+	margin-left: 9px;
+	margin-right: 7px;
+	*margin-left: 0;
+}
+.hot_num1 a{
+	font-size: 14px;
+	color: #000;
+}
+.hot_num_left{
+	margin-left: 7px;
+	margin-right: 7px;
+}
+
+.hot_num2 a{
+	color:#ff4466;
+}
+.hot_num4{
+	margin-right: 0;
+}
+.hot_text_line{
+	width:1px;
+	height:12px;
+	background-color: #d8d8d8;
+	margin-top: 14px;
+}
+.carousel_box{
+	width:715px;
+	padding:20px 20px 0 20px;
+	float: left;
+}
+.carousel_img{
+	width:715px;
+}
+.carousel_img a{
+	width:715px;
+	height:530px;
+}
+.good_recommendation{
+	width:220px;
+	float:right;
+	padding-top: 20px;
+}
+.good_recommendation ul{
+	width:180px;
+	height:507px;
+	border:1px solid #dddddd;
+	padding:21px 19px 0 19px;
+}
+.img_text_line{
+	width:180px;
+	height:1px;
+	background: url(../img/hot_map_left.jpg) no-repeat;
+	margin-top: 23px;
+	margin-bottom: 20px;
+}
+.img_text{
+	width:180px;
+}
+.img_top{
+	width:180px;
+	height:220px;
+	position: relative;
+	display: block;
+}
+.img_top_text{
+	width:180px;
+	height:55px;
+	display: block;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.img_top_bg{
+	display: block;
+	width:180px;
+	height:55px;
+	background-color: #3d3e42;
+	opacity: .3;
+	filter: alpha(opacity=30);
+}
+.text_top{
+	height:14px;
+	font-size: 14px;
+	color:#fff;
+	position: absolute;
+	bottom: 32px;
+	left:12px;
+}
+.text_bottom{
+	height:18px;
+	font-size: 14px;
+	color:#fff;
+	position: absolute;
+	bottom: 7px;
+	left:10px;
+	font-weight: bold;
+}
+.discount{
+	width:1200px;
+	height:300px;
+	border-top: 1px solid #000;
+	margin:0 auto;
+	margin-top: 80px;
+}
+.sale{
+	width:225px;
+	height:295px;
+	border-bottom: 5px solid #ff4466;	
+	float: left;
+}
+.sale_img{
+	width:223px;
+	height:295px;
+	border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.sale_img a{
+	display: block;
+}
+.group_purchase_sale{
+	width:574px;
+	height:300px;
+	margin:0 20px;
+	float: left;
+}
+.group_purchase_sale a{
+	display: block;
+}
+.panic_buying{
+	width:360px;
+	height:300px;
+	float: right;
+}
+.panic_buying a{
+	display: block;
+}
+.panic_buying_img{
+	margin-bottom: 10px;
+}
+
+
+.brand_hall{
+	width:1200px;
+	height:500px;
+	margin:0 auto;
+	/*background-color: #000;*/
+}
+.table_left{
+	width:223px;
+	height:478px;
+	float: left;
+	margin-right: 20px;
+	border:1px solid #dddddd;
+	padding-top: 20px;
+}
+.left_hall_img{
+	float: left;
+	width:183px;
+	height:213px;
+	padding:0 20px;
+	margin-bottom: 21px;
+}
+.brand_box{
+	width:223px;
+	height:244px;
+	float: left;
+}
+.left_hall_logo a{
+	float: left;
+}
+.left_hall_logo{
+	float: left;
+	width:111px;
+	height:60px;
+	border-top: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.hall_logo_border{
+	border-right:none;
+}
+.table_img_center{
+	width:305px;
+	height:500px;
+	float: left;
+}
+.table_img_center a{
+	float: left;
+}
+.table_right{
+	width:647px;
+	height:498px;
+	float: left;
+	border: 1px solid #dddddd;
+}
+.brand_right_li{
+	float: left;
+	width:215px;
+	height:248px;
+	border-bottom: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.right_li_border{
+	border-right:none;
+}
+.right_top_text{
+	display: block;
+	width:215px;
+	text-align: center;
+	line-height: 52px;
+	font-size: 12px;
+	color:#000;
+	cursor:pointer;
+}
+.right_bottom_text{
+	display: block;
+	width:215px;
+	text-align: center;
+	line-height: 53px;
+	font-size: 12px;
+	color:#000;
+	cursor:pointer;
+}
+
+/*以下是海淘馆模块*/
+.more_amoy{
+	width:1200px;
+	height:500px;
+	margin:0 auto;
+	/*overflow: hidden;*/
+}
+.more_amoy_left{
+	float: left;
+	width:223px;
+	height:498px;
+	border:1px solid #dddddd;
+}
+.more_amoy_left_img{
+	width:170px;
+	height:363px;
+	background-color: #fbfbfb;
+	padding:20px 27px 10px 26px;
+}
+.more_amoy_left_img a{
+	display: block;
+}
+.more_amoy_b{
+	margin-bottom: 23px;
+}
+.more_amoy_left_text{
+	width:223px;
+	height:100px;
+	padding-top: 5px;
+	overflow: hidden;
+}
+.more_amoy_left_text a{
+	display: block;
+	width:74px;
+	line-height: 30px;
+	font-size: 12px;
+	color:#000;
+	text-align: center;
+	/*position:relative;*/
+}
+.more_amoy_left_text div{
+	width:74px;
+	height:100px;
+	float: left;
+}
+.more_amoy_left_text .center_div{
+	width:75px;
+}
+.more_amoy_left_text .middle_a{
+	width:75px;
+}
+.more_amoy_right{
+	float: left;
+	width:975px;
+	height:500px;
+}
+.more_amoy_right ul{
+	width:975px;
+}
+.more_amoy_right li{
+	float: left;
+	width:305px;
+	height:500px;
+	margin-left: 20px;
+	*display:inline
+}
+.star{
+	width:305px;
+	height:330px;
+}
+.amoy_img_text{
+	display: block;
+	width:305px;
+	height:170px;
+	font-size: 14px;
+	color:#999;
+}
+.amoy_img_text img{
+	float: left;
+}
+.img_right{
+	float: left;
+	width:165px;
+	padding-left: 10px;
+	padding-top: 75px;
+}
+.img_right span{
+	display: block;
+}
+.black{
+	color:#000;
+	margin-bottom: 8px;
+}
+.brand_hall_bt{
+	margin-bottom: 90px;
+}
